@@ -3,6 +3,11 @@ import javax.swing.JOptionPane;
 public class flower{
 public static void main (String[] args){
 
+
+
+String welcome = JOptionPane.showMessageDialog(null,"Kamusta kana")
+
+
 String Type = JOptionPane.showInputDialog(null, "++++++++++++++++\n"
                                               + "FLOWER COMAPANY\n"
                                               + "++++++++++++++++\n"
